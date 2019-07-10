@@ -1,0 +1,31 @@
+Introduction
+
+I want to make a cocktail recommendation website, that takes in the ingredients you have in your home, and returns
+a list of drinks that you can make with said ingredients. I will also include a 'random' drink, which will display
+the 'drink of the day'.
+
+I don't believe this is a controversial topic, but if it is please let me know!
+
+
+
+API
+I will use 'The Cocktail DB' API. It is a free to use service, and has a few cool features like ingredient lookup:
+
+https://www.thecocktaildb.com/api/json/v1/1/lookup.php?iid=552
+
+It looks like if you donate a few dollars to the cause, it unlocks some neat features, which I will probably do!
+
+
+
+Objectives
+
+I want to build this site because I love craft cocktails, and I like trying new things! I want people to be able to
+explore and get creative with what they have at home. No need to go to the store tonight!
+
+Goals:
+* Be able to return a list of drinks for a given set of ingredients
+* Filters/Preferences
+* Random Drink of the day
+* Excellent Design
+* Extra Credit:
+    * Data persistence, saving the user's ingredients for revisiting the site
